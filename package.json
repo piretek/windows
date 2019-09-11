@@ -12,12 +12,13 @@
     "url": "https://github.com/PhilipSkinner/windows/issues"
   },
   "dependencies": {
+    "expand-path": "^1.0.6",
     "jasmine": "^3.1.0"
   },
   "deprecated": false,
   "description": "A collection of utilities for Windows for Node.js",
   "devDependencies": {
-    "jasmine" : "3.1.0"
+    "jasmine": "3.1.0"
   },
   "homepage": "https://github.com/PhilipSkinner/windows",
   "main": "index.js",
@@ -27,8 +28,8 @@
     "type": "git",
     "url": "git@github.com:PhilipSkinner/windows.git"
   },
-  "scripts" :{
-    "test" : "jasmine"
+  "scripts": {
+    "test": "jasmine"
   },
   "tags": [
     "Windows",
